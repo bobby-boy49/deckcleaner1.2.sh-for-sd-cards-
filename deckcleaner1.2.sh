@@ -13,7 +13,7 @@ while [ $SD -eq 1 ]; do
       --ok-label Quit \
       --extra-button yes \
       --extra-button no \
-      --extra-button "move shaderache to SD card" \
+      --extra-button "move shadercache to SD card" \
        )
   
   
@@ -35,7 +35,7 @@ while [ $SD -eq 1 ]; do
   
   
   
-  elif [[ $ans = "move shaderache to SD card" ]]
+  elif [[ $ans = "move shadercache to SD card" ]]
   then
   	if zenity --question --title="Confirm move" --text="move shadercache to SDcard?" --no-wrap 
     then
