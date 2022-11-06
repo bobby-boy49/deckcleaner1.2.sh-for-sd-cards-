@@ -1,4 +1,4 @@
-# deckcleaner1.2.sh For SD Cards!
+# deckcleaner1.2.sh for SD Cards!
 A quick and dirty fix to get early sd card support for deck cleaner 1.2
 
 
